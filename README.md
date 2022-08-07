@@ -1,10 +1,10 @@
-# ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
+# Ethereum Smart Contracts, Tokens and Dapps
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
 ### Token
-Token Name: Star Token
-Token Symbol: STR
-Token Address: 0x2B4D46029558dbFA261AcA01B5d3da9D6b6aCdC9
+- Token Name: Star Token
+- Token Symbol: STR
+- Token Address: 0x2B4D46029558dbFA261AcA01B5d3da9D6b6aCdC9
 
 ### Dependencies
 For this project, you will need to have:
@@ -134,5 +134,3 @@ compilers: {
 
 ---
 
-Do not use the [Old depreacted zipped starter code](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/January/5c51c4c0_project-5-starter-code/project-5-starter-code.zip)
-# starNotary
